@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FDBC36</color>
+    <color name="colorPrimaryDark">#FD7A36</color>
+    <color name="colorAccent">#FFE561</color>
+    <color name="colorPointsOne">#CCFD7A36</color>
+    <color name="colorPointsTwo">#CCFDBC36</color>
+    <color name="colorGreen">#40A174</color>
+    <color name="colorYellow">#FFFD53</color>
+    <color name="colorConfirmFade">#A6FDBC36</color>
+    <color name="colorConfirmText">#FFFFFF</color>
+    <color name="colorConfirmTextFade">#A6FFFFFF</color>
+    <color name="colorEnd">#FB3D2C</color>
+    <color name="colorBonusReached">#39FF2B</color>
+    <color name="colorPointsThree">#CCFD5E36</color>
+    <color name="colorRollFade">#A6FD7A36</color>
+</resources>
